@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladyslav
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript and React Owner avatar
+- 🌱 I’m currently learning JavaScript and React
 
 
 <!---
