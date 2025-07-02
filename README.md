@@ -4,7 +4,7 @@
   
 *⌨️ Eager to contribute to impactful projects and collaborate with like-minded professionals.*  
 
-<table><tr><td valign="top" height="100%">
+<table width="100%"><tr><td valign="top">
 Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -17,7 +17,7 @@ Frontend
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 </div>
-</table></td><td valign="top" height="100%">
+</td></tr></table>
 
 Backend  
 <div align="center">     
