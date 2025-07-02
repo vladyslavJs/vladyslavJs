@@ -1,3 +1,5 @@
+Hello! I’m Vladyslav, an aspiring software developer dedicated to continuous learning and growth in the tech industry. I am passionate about mastering modern technologies and writing clean, efficient code. Eager to contribute to impactful projects and collaborate with like-minded professionals.
+
 Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
