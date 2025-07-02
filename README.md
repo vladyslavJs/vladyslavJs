@@ -4,7 +4,7 @@
   
 *⌨️ Eager to contribute to impactful projects and collaborate with like-minded professionals.*  
 
-<table>
+<table style="border: 1px solid white">
 Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
