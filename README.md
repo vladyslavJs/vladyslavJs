@@ -1,4 +1,6 @@
-Hello! I’m Vladyslav, an aspiring software developer dedicated to continuous learning and growth in the tech industry. I am passionate about mastering modern technologies and writing clean, efficient code. Eager to contribute to impactful projects and collaborate with like-minded professionals.
+**<div align="center">Hello! I’m Vladyslav, an aspiring software developer dedicated to continuous learning and growth in the tech industry.</div>** 
+
+I am passionate about mastering modern technologies and writing clean, efficient code. Eager to contribute to impactful projects and collaborate with like-minded professionals.
 
 Frontend  
 <div align="center">  
